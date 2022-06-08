@@ -2,7 +2,7 @@
 
 ### Preview:
 
-<img width="300px" src="preview/Preview1.png" />
+<img width="300px" src="preview/Preview1.jpg" />
 
 ### Features:
 
