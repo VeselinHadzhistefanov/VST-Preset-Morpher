@@ -6,6 +6,6 @@
 
 ### Features:
 
-- Store parameters as presets
-- Morph between plugin states
+- Store parameters to presets
+- Morph between plugin states A and B
 - Select parameter morphing style
