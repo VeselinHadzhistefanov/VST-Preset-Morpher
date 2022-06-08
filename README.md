@@ -6,8 +6,6 @@ This plugin enables you to morph between presets.
 
 <img width="900px" src="preview/Preview1.jpg" />
 
-### Functionality:
-
 - Store parameters to presets
 - Morph between plugin states A and B
 - Select parameter morphing style
