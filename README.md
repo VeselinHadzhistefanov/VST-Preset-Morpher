@@ -1,6 +1,6 @@
 ## VST Preset Morpher
 
-This plugin enables you to morph between presets in an audio plugin.
+This plugin enables you to morph between presets in an audio plugin. Example with Native Instruments Massive.
 
 <img width="900px" src="preview/Preview1.jpg" />
 
